@@ -7,6 +7,7 @@ API REST para gerenciar tarefas, desenvolvida com Java, Spring Boot, Lombok, Pos
 - Spring Boot
 - PostgreSQL
 - Lombok
+- Validation
 - Docker + Docker Compose
 
 ## ⚙️ Como executar
