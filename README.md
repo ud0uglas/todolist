@@ -14,15 +14,15 @@ API REST para gerenciar tarefas, desenvolvida com Java, Spring Boot, Lombok, Pos
 
 1. Clone o repositório
 2. Rode: `docker compose up`
-3. Acesse: `http://localhost:8080/api/todos`
+3. Acesse: `http://localhost:8080/api/todo`
 
 ## 🔧 Endpoints principais
 
 | Método | Endpoint        | Descrição           |
 |--------|------------------|---------------------|
-| GET    | /api/todos       | Lista todas as tarefas |
-| POST   | /api/todos       | Cria uma nova tarefa |
-| DELETE | /api/todos/{id}  | Deleta uma tarefa     |
+| GET    | /api/todo       | Lista todas as tarefas |
+| POST   | /api/todo       | Cria uma nova tarefa   |
+| DELETE | /api/todo/{id}  | Deleta uma tarefa      |
 
 ## 📌 Contribuindo
 
