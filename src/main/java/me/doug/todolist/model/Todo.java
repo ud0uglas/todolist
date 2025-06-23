@@ -23,7 +23,7 @@ public class Todo {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @NotBlank(message = "Titulo não inserido de forma")
+    @NotBlank(message = "Titulo não inserido de forma correta")
     private String title;
 
     private boolean completed;
